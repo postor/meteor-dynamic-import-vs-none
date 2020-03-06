@@ -7,7 +7,7 @@ Here we can use dyamic import to split the resources, so the [meteor-dynamic-imp
 ## compare result
 
 befor split
-![befor split](./images/none-dyamic.jpg)
+![befor split](./images/none-dynamic.jpg)
 
 - the resource files are bigger, app.js=2.6M because all pages packed in app.js
 - the load time slower, 1.4s
