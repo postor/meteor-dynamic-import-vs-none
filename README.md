@@ -18,6 +18,13 @@ after split
 - the resource files are smaller, largest file 332kb, shall be the current page
 - the load time quicker, 1s, about 2/3 of before
 
+### more different on mobiles
+
+|  |dyamic import  | none dyamic |
+| ------------- | ------------- | ------------- |
+| fast 3G | ![after split](./images/dyamic-fast3g.jpg)  | ![before split](./images/none-dynamic-fast3g.jpg)   |
+| slow 3G | ![after split](./images/dyamic-slow3g.jpg)  | ![before split](./images/none-dynamic-slow3g.jpg)   |
+
 ## how to split
 
 the code looks like this, you can refer [./meteor-dynamic-import/imports/ui/App.jsx](./meteor-dynamic-import/imports/ui/App.jsx)
