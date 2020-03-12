@@ -18,7 +18,7 @@ after split
 - the resource files are smaller, largest file 332kb, shall be the current page
 - the load time quicker, 1s, about 2/3 of before
 
-### more different on mobiles
+### more different on mobiles or slow network
 
 |  |dyamic import  | none dyamic |
 | ------------- | ------------- | ------------- |
